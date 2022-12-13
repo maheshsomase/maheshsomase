@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshsomase&label=Profile%20views&color=0e75b6&style=flat" alt="maheshsomase" /> </p>
 
-- 🌱 I’m currently learning **Machine learning | Deep learning | NLP**
+- 🌱 I’m currently learning **Machine learning | Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maheshsomase](https://github.com/maheshsomase)
 
